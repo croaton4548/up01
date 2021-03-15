@@ -1,0 +1,13 @@
+E:\ПГЭК\КПиЯП\УП КПиЯП\Проги\UP_01\UP_01\bin\Debug\netcoreapp3.1\UP_01.exe
+E:\ПГЭК\КПиЯП\УП КПиЯП\Проги\UP_01\UP_01\bin\Debug\netcoreapp3.1\UP_01.deps.json
+E:\ПГЭК\КПиЯП\УП КПиЯП\Проги\UP_01\UP_01\bin\Debug\netcoreapp3.1\UP_01.runtimeconfig.json
+E:\ПГЭК\КПиЯП\УП КПиЯП\Проги\UP_01\UP_01\bin\Debug\netcoreapp3.1\UP_01.runtimeconfig.dev.json
+E:\ПГЭК\КПиЯП\УП КПиЯП\Проги\UP_01\UP_01\bin\Debug\netcoreapp3.1\UP_01.dll
+E:\ПГЭК\КПиЯП\УП КПиЯП\Проги\UP_01\UP_01\bin\Debug\netcoreapp3.1\UP_01.pdb
+E:\ПГЭК\КПиЯП\УП КПиЯП\Проги\UP_01\UP_01\obj\Debug\netcoreapp3.1\UP_01.csprojAssemblyReference.cache
+E:\ПГЭК\КПиЯП\УП КПиЯП\Проги\UP_01\UP_01\obj\Debug\netcoreapp3.1\UP_01.AssemblyInfoInputs.cache
+E:\ПГЭК\КПиЯП\УП КПиЯП\Проги\UP_01\UP_01\obj\Debug\netcoreapp3.1\UP_01.AssemblyInfo.cs
+E:\ПГЭК\КПиЯП\УП КПиЯП\Проги\UP_01\UP_01\obj\Debug\netcoreapp3.1\UP_01.csproj.CoreCompileInputs.cache
+E:\ПГЭК\КПиЯП\УП КПиЯП\Проги\UP_01\UP_01\obj\Debug\netcoreapp3.1\UP_01.dll
+E:\ПГЭК\КПиЯП\УП КПиЯП\Проги\UP_01\UP_01\obj\Debug\netcoreapp3.1\UP_01.pdb
+E:\ПГЭК\КПиЯП\УП КПиЯП\Проги\UP_01\UP_01\obj\Debug\netcoreapp3.1\UP_01.genruntimeconfig.cache

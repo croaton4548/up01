@@ -6,7 +6,17 @@ namespace UP_01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string q = Console.ReadLine();
+            switch (q)
+            {
+                case "1":
+                    Class1 M = new Class1();
+                    M.SetInfo();
+                    Console.WriteLine("");
+                    M.GetInfo();
+
+                    break;
+            }
         }
     }
 }
