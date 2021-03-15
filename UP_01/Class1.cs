@@ -6,5 +6,8 @@ namespace UP_01
 {
     class Class1
     {
+        private string name;
+        private string cipher;
+        private int count;
     }
 }
