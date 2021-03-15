@@ -45,5 +45,36 @@ namespace UP_01
                 this.count = GetCount;
             }
         }
+
+        public Class1(string name, string cipher, int count)
+        {
+            this.name = name;
+            this.cipher = cipher;
+            this.count = count;
+        }
+
+        public Class1()
+        {
+            name = "";
+            cipher = "";
+            count = 0;
+        }
+
+        public void SetInfo()
+        {
+            Console.Write("Название: ");
+            this.name = Console.ReadLine();
+            Console.Write("Шифр: ");
+            this.cipher = Console.ReadLine();
+            Console.Write("Количество: ");
+            this.count = Convert.ToInt32(Console.ReadLine());
+        }
+
+        public void GetInfo()
+        {
+            Console.WriteLine("Название: " + name);
+            Console.WriteLine("Шифр: " + cipher);
+            Console.WriteLine("Количество: " + count);
+        }
     }
 }
